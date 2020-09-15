@@ -10,7 +10,7 @@ import com.github.eduardoh03.eskillo.model.Localidade;
 import com.github.eduardoh03.eskillo.model.Perfil;
 import com.github.eduardoh03.eskillo.model.TipoFormacao;
 
-//printf("ole")
+
 @SpringBootApplication
 public class EskilloApplication implements CommandLineRunner {
 
